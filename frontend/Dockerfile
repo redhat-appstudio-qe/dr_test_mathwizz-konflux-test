@@ -51,3 +51,4 @@ HEALTHCHECK --interval=10s --timeout=5s --start-period=5s --retries=3 \
 
 # Start nginx
 CMD ["nginx", "-g", "daemon off;"]
+# konflux-test trigger run-2f903e02-9f7d-4a1e-a7aa-3345f1dc6e37 1790506011
