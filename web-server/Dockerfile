@@ -39,3 +39,4 @@ HEALTHCHECK --interval=10s --timeout=5s --start-period=10s --retries=3 \
 # Run the binary
 CMD ["./web-server"]
 # konflux-test trigger run-2f903e02-9f7d-4a1e-a7aa-3345f1dc6e37 1790506007
+# konflux-test trigger run-c448ed0e-86ce-490d-901c-ff453b3c963e 1790506286
